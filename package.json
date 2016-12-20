@@ -1,0 +1,35 @@
+{
+  "name": "funky-sloth-42",
+  "version": "0.0.0-development",
+  "description": "generates random string out of adjective, animal and a number",
+  "main": "index.js",
+  "scripts": {
+    "coverage": "nyc report --reporter=text-lcov | coveralls",
+    "test": "tap --coverage test/index.js",
+    "posttest": "standard",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gr2m/funky-sloth-42.git"
+  },
+  "keywords": [],
+  "author": "Gregor Martynus",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/gr2m/funky-sloth-42/issues"
+  },
+  "homepage": "https://github.com/gr2m/funky-sloth-42#readme",
+  "dependencies": {
+    "adjectives": "^1.0.1",
+    "animals": "0.0.3",
+    "random-number-in-range": "^1.0.0"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.15",
+    "nyc": "^10.0.0",
+    "standard": "^8.6.0",
+    "tap": "^8.0.1",
+    "semantic-release": "^6.3.2"
+  }
+}
