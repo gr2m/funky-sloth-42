@@ -17,6 +17,11 @@ console.log(generateString())
 // hungry-be-99
 ```
 
+## Tutorial
+
+You can watch me creating this package and all my decision making along the way on YouTube:
+https://youtu.be/mPcxtm5q5Uc
+
 ## License
 
 Apache 2.0
