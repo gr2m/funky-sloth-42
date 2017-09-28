@@ -26,7 +26,7 @@
     "random-number-in-range": "^1.0.0"
   },
   "devDependencies": {
-    "coveralls": "^2.11.15",
+    "coveralls": "^3.0.0",
     "nyc": "^11.0.0",
     "standard": "^10.0.0",
     "tap": "^10.0.0",
