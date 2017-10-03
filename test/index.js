@@ -9,3 +9,11 @@ test('smoke test', function (t) {
   t.ok(/-\d{2}$/.test(string))
   t.end()
 })
+
+test('array', function (t) {
+  const array = generateRandomString(3)
+  t.ok(Array.isArray(array))
+  t.is(array.length, 3)
+  t.type(array[0], 'string')
+  t.end()
+})
