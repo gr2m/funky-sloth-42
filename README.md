@@ -17,6 +17,8 @@ console.log(generateString())
 // clever-fox-11
 console.log(generateString())
 // hungry-be-99
+console.log(generateString(3))
+// ['highfalutin-pelican-38', 'delightful-panther-72', 'busy-wombat-66']
 ```
 
 ## Tutorial
