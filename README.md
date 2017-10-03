@@ -1,3 +1,5 @@
+<a href="https://slothlovelife.wordpress.com/2012/03/31/sloth-love-funk/"><img src="assets/sloth.png" align=right></a>
+
 # funky-sloth-42
 
 > generates random string out of adjective, animal and a number
