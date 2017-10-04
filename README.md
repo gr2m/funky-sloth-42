@@ -6,8 +6,7 @@
 
 [![Build Status](https://travis-ci.org/gr2m/funky-sloth-42.svg?branch=master)](https://travis-ci.org/gr2m/funky-sloth-42)
 [![Coverage Status](https://coveralls.io/repos/gr2m/funky-sloth-42/badge.svg?branch=master)](https://coveralls.io/r/gr2m/funky-sloth-42?branch=master)
-[![Dependency Status](https://david-dm.org/gr2m/funky-sloth-42.svg)](https://david-dm.org/gr2m/funky-sloth-42)
-[![devDependency Status](https://david-dm.org/gr2m/funky-sloth-42/dev-status.svg)](https://david-dm.org/gr2m/funky-sloth-42#info=devDependencies)
+[![Greenkeeper badge](https://badges.greenkeeper.io/gr2m/funky-sloth-42.svg)](https://greenkeeper.io/)
 
 ## Usage
 
